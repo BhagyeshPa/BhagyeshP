@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+you need xampp server to run it
+
 for login 
 test@admin  test@123
 test@qa    test@123
