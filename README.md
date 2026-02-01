@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+for login 
+test@admin  test@123
+test@qa    test@123
+test@user   test@123
 <!--
 **BhagyeshPa/BhagyeshPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
